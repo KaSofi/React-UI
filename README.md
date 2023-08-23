@@ -1,4 +1,6 @@
 # react-ui
+WEB:  https://react-ui-config.netlify.app
+
 1. Language translation (ru-en):  [i18n.](https://react.i18next.com/guides/quick-start )
 2. MATERIAL-UI:  https://mui.com
 3. SWEETALERT:  https://blog.openreplay.com/better-alerts-with-sweetalert2/
