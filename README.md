@@ -11,3 +11,8 @@ WEB:  https://react-ui-config.netlify.app
 8. add / delete item from the list (using .filter method)
 
 ![12](https://github.com/KaSofi/react-ui/assets/103929930/cdf8d112-f727-4752-b9d2-bc11c1a732d5)
+
+
+![recipe-app](https://github.com/KaSofi/react-ui/assets/103929930/40759158-b79d-4547-835f-3eeb7f51a8ab)
+
+
